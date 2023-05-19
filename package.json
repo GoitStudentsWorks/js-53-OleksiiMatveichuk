@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/GoitStudentsWorks/js-53-OleksiiMatveichuk/",
+    "build": "vite build --base=/js-53-OleksiiMatveichuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
